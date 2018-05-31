@@ -15,14 +15,15 @@ public class Semana9 {
      * @param args the command line arguments
      */
     public static void main(String[] args){
-        // length (sumatoria de caracteres)
-        // Ejercicio1
+        /* length (sumatoria de caracteres)
+        Ejercicio1
+        */
+        
         int [] c = new int [4];
         c [0] = 10;
         System.out.println(c.length);
         for (int contador = 0; contador < c.length; contador++){
             System.out.println(c[contador]);
-        }
-    }
-    
-}
+        } // Fin For
+    } // Fin Main
+} // Fin Class Semana9
