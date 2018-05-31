@@ -15,6 +15,8 @@ public class Semana9 {
      * @param args the command line arguments
      */
     public static void main(String[] args){
+        // length (sumatoria de caracteres)
+        // Ejercicio1
         int [] c = new int [4];
         c [0] = 10;
         System.out.println(c.length);

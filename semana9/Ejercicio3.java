@@ -10,6 +10,10 @@ package semana9;
  * @author cfjimbo
  */
 public class Ejercicio3 {
+    /*Arreglos: Calificaciones y Promedios.
+    Ejercicio3
+    */
+    
     public static void main(String[] args) {
         double [] calificaciones_progr = {18,19,15,16,17,10};
         double [] calificaciones_bd = {10,12,13,20,17,20};
