@@ -7,7 +7,7 @@ package semana9;
 
 /**
  *
- * @author majimbo1
+ * @author cfjimbo
  */
 public class Semana9 {
 
